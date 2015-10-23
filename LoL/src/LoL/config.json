@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "LoL"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-LoL-40da758a-d1d9-4297-b400-14268301deef;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
